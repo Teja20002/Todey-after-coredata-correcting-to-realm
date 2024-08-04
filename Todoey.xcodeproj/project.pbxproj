@@ -322,7 +322,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3ECFYJZ64T;
 				INFOPLIST_FILE = Todoey/Info.plist;
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+=======
+>>>>>>> 0289aa01ace4a3f5522d3241a0a7728744aeabec
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.londonappbrewery.Todoey;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -338,7 +341,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3ECFYJZ64T;
 				INFOPLIST_FILE = Todoey/Info.plist;
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+=======
+>>>>>>> 0289aa01ace4a3f5522d3241a0a7728744aeabec
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.londonappbrewery.Todoey;
 				PRODUCT_NAME = "$(TARGET_NAME)";
